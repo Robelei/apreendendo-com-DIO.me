@@ -1,2 +1,2 @@
 # apreendendo-com-DIO.me
-Criado para aprender
+criado para bootcamp de linux
